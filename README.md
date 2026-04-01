@@ -5,6 +5,7 @@ My work spans web development, branding, and design troubleshooting, with a focu
 
 ## 🔧 Skills
 - Web Development (Front-end & Backend basics)
+- UI/UX Designing
 - Branding & Messaging
 - Design Troubleshooting (Photoshop, Illustrator)
 - Social Media Strategy
