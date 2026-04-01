@@ -1,7 +1,7 @@
 # Hi, I'm Gaurav 👋
 
-I’m a creative technologist passionate about building practical, maintainable, and scalable solutions.  
-My work spans web development, branding, and design troubleshooting, with a focus on clarity and user empowerment.  
+Currently involved in BCA for my education, I’m a creative technologist passionate about building practical, maintainable, and scalable solutions.
+My work spans web development, branding, and design troubleshooting, with a focus on clarity and user empowerment.
 
 ## 🔧 Skills
 - Web Development (Front-end & Backend basics)
