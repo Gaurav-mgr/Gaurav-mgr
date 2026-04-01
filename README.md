@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**Gaurav-mgr/Gaurav-mgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a creative technologist passionate about building practical, maintainable, and scalable solutions.  
+My work spans web development, branding, and design troubleshooting, with a focus on clarity and user empowerment.  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Web Development (Front-end & Backend basics)
+- Branding & Messaging
+- Design Troubleshooting (Photoshop, Illustrator)
+- Social Media Strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+- Backend infrastructure & resilient architecture
+- Practical JavaScript solutions
+- Data modeling & scalable systems
+
+## 📫 Connect
+Feel free to reach out or collaborate on projects that combine creativity and technology.
