@@ -11,9 +11,9 @@ My work spans web development, branding, and design troubleshooting, with a focu
 - Social Media Strategy
 
 ## 🌱 Currently Exploring
+- Frontend and UI/UX mechanisms
 - Backend infrastructure & resilient architecture
 - Practical JavaScript solutions
-- Data modeling & scalable systems
 
 ## 📫 Connect
 Feel free to reach out or collaborate on projects that combine creativity and technology.
