@@ -7,7 +7,7 @@ My work spans web development, branding, and design troubleshooting, with a focu
 - Web Development (Front-end & Backend basics)
 - UI/UX Designing
 - Branding & Messaging
-- Design Troubleshooting (Photoshop, Illustrator)
+- Design Troubleshooting (Photoshop, Illustrator, InDesign)
 - Social Media Strategy
 
 ## 🌱 Currently Exploring
