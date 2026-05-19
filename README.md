@@ -5,9 +5,10 @@ My work spans web development, branding, and design troubleshooting, with a focu
 
 ## Skills
 - Web Development (Front-end & Backend basics)
-- UI/UX Designing
-- Branding & Messaging
-- Design Troubleshooting (Photoshop, Illustrator, InDesign)
+- UI/UX Design
+- Branding
+- Logo Design
+- Graphic Design
 - Social Media Strategy
 
 ## Proficient In
@@ -17,7 +18,12 @@ My work spans web development, branding, and design troubleshooting, with a focu
 - JavaScript
 - HTML
 - CSS
+- PHP
+- MySQL
 - React.js
+- Adobe Suite (Photoshop, Illustrator, & Indesign)
+- Canva
+- Figma
 
 ## Currently Exploring
 - Frontend and UI/UX mechanisms
