@@ -86,6 +86,8 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
   
   ```
   🧠 recommends diet plans based on user input/preferences
+  📃 prioritizes user's health condition i.e. allergies, type i.e. vegan or vegetarian or non-vegetarian or both
+  🩺 supports 3 users i.e. admin, user, and nutritionist
   📊 focused on practical, everyday nutrition guidance
   🌐 built while exploring health-tech solutions
   ```
