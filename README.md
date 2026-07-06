@@ -1,35 +1,157 @@
-# Hi, I'm Gaurav
+<div align="center">
 
-Currently involved in BCA for my education, I’m a creative technologist passionate about building practical, maintainable, and scalable solutions.
-My work spans web development, branding, and design troubleshooting, with a focus on clarity and user empowerment.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gaurav%20Pulami&fontSize=52&fontColor=00FFC6&animation=fadeIn&fontAlignY=35&desc=%3C%20Creative%20Technologist%20%2F%2F%20BCA%20Student%20%2F%2F%20Web%20Developer%20%3E&descAlignY=55&descSize=16&descColor=8ED1FC" width="100%"/>
 
-## Skills
-- Web Development (Front-end & Backend basics)
-- UI/UX Design
-- Branding
-- Logo Design
-- Graphic Design
-- Social Media Strategy
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFC6&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=%24+whoami+%E2%86%92+full-stack+developer;%24+building+practical+%26+scalable+solutions;%24+React+%2B+Laravel+%2B+TypeScript;%24+status%3A+shipping+code+%E2%98%85" alt="Typing SVG" />
 
-## Proficient In
-- C
-- C#
-- ASP.Net
-- Java
-- JavaScript
-- HTML
-- CSS
-- PHP
-- MySQL
-- React.js
-- Adobe Suite (Photoshop, Illustrator, & Indesign)
-- Canva
-- Figma
+<br/>
 
-## Currently Exploring
-- Frontend and UI/UX mechanisms
-- Backend infrastructure & resilient architecture
-- Practical JavaScript solutions
+![Profile Views](https://komarev.com/ghpvc/?username=Gaurav-mgr&color=00FFC6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
 
-## Connect
-Feel free to reach out or collaborate on projects that combine creativity and technology.
+</div>
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+<td width="60%" valign="middle">
+
+```bash
+> cat about_me.txt
+```
+
+I'm a **creative technologist** currently pursuing my **BCA**, passionate about building practical, maintainable, and scalable solutions. My work spans full-stack **web development** — from crafting clean interfaces to designing solid backend logic.
+
+- ✅ `TraceIt` — inventory & expiry tracking app for shops, cafés, and home kitchens
+- 🥗 `ZenEats` — a diet recommendation system
+- 🌦️ `Weatherne` — a weather forecasting web app
+- 🎲 `HangLang` — a hangman-style game with programming languages on the line
+- 🏆 Hackathon builder & ideator
+- 💡 I enjoy turning messy problems into clean, working systems
+- 📍 Based in Lalitpur, Nepal
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="320" alt="hacker programmer coding animation"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,html,css,ts,php,mysql,sqlite,laravel,figma&theme=dark" alt="tech stack icons" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FFC6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FFC6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FFC6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FFC6&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FFC6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFC6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FFC6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00FFC6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FFC6&labelColor=0D1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<details open>
+<summary><b>📦&nbsp;&nbsp;TraceIt</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<br>
+
+> Inventory and expiry tracking web app for shops, cafés, and home kitchens — built with **Laravel + React (Inertia.js)**.
+
+```
+⚡ real-time inventory & batch tracking (InventoryItem / InventoryBatch)
+💱 custom NPR (रु) currency formatting
+🎨 clean, responsive dashboard with Tailwind CSS
+🔧 full-stack debugging across JSX, TypeScript & Laravel collections
+```
+
+`Laravel` `React` `TypeScript` `Tailwind CSS` `Inertia.js` `Ziggy`
+
+</details>
+
+<details>
+<summary><b>🥗&nbsp;&nbsp;ZenEats</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<br>
+
+> A diet recommendation system designed to help users make smarter, personalized food choices.
+
+```
+🧠 recommends diet plans based on user input/preferences
+📊 focused on practical, everyday nutrition guidance
+🌐 built while exploring health-tech solutions
+```
+
+`React` `TypeScript` `CSS3`
+
+</details>
+
+<details>
+<summary><b>🌦️&nbsp;&nbsp;Weatherne</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<br>
+
+> A weather forecasting web app that fetches live data from a free weather API and showcases it in a clean, beautifully styled UI.
+
+```
+🌍 real-time weather data from a free public API
+🎨 polished, responsive UI built entirely with custom CSS3
+⚛️ component-driven architecture in React
+```
+
+`React (JavaScript)` `CSS3`
+
+</details>
+
+<details>
+<summary><b>🎲&nbsp;&nbsp;HangLang</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<br>
+
+> A relative of hangman but the programming languages are on the line — built with **React + TypeScript**.
+
+```
+⚡ 500+ words in storage
+💱 8 chances to guess the correct word
+🎨 clean, responsive, and clarified UI
+```
+
+`React` `TypeScript` `CSS3`
+
+</details>
+
+<br/>
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/gauravpulami" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFC6&labelColor=0D1117" />
+</a>
+<a href="mailto:gauravpulami0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFC6&labelColor=0D1117" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+<p align="center"><i>&lt; Thanks for stopping by — let's build something meaningful. /&gt;</i></p>
