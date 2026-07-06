@@ -17,13 +17,13 @@
 
 I'm a **creative technologist** currently pursuing my **BCA**, passionate about building practical, maintainable, and scalable solutions. My work spans full-stack **web development** — from crafting clean interfaces to designing solid backend logic.
 
-- ✅ `TraceIt` — inventory & expiry tracking app for shops, cafés, and home kitchens
-- 🥗 `ZenEats` — a diet recommendation system
-- 🌦️ `Weatherne` — a weather forecasting web app
-- 🎲 `HangLang` — a hangman-style game with programming languages on the line
-- 🏆 Hackathon builder & ideator
-- 💡 I enjoy turning messy problems into clean, working systems
-- 📍 Based in Lalitpur, Nepal
+- `TraceIt` — inventory & expiry tracking app for shops, cafés, and home kitchens
+- `ZenEats` — a diet recommendation system
+- `Weatherne` — a weather forecasting web app
+- `HangLang` — a hangman-style game with programming languages on the line
+- Hackathon builder & ideator
+- I enjoy turning messy problems into clean, working systems
+- Based in Lalitpur, Nepal
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100%" alt="hacker programmer coding animation"/> -->
 
