@@ -55,6 +55,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FFC6&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFC6&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FFC6&labelColor=0D1117" />
+<br/>
 <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00FFC6&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FFC6&labelColor=0D1117" />
 
