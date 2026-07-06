@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gaurav%20Pulami&fontSize=52&fontColor=00FFC6&animation=fadeIn&fontAlignY=35&desc=%3C%20Creative%20Technologist%20%2F%2F%20BCA%20Student%20%2F%2F%20Web%20Developer%20%3E&descAlignY=55&descSize=16&descColor=8ED1FC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gaurav%20Pulami&fontSize=52&fontColor=00FFC6&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20%7C%20BCA%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=16&descColor=8ED1FC" width="100%" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFC6&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=%24+whoami+%E2%86%92+full-stack+developer;%24+building+practical+%26+scalable+solutions;%24+React+%2B+Laravel+%2B+TypeScript;%24+status%3A+shipping+code+%E2%98%85" alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gaurav-mgr&color=00FFC6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=whoami?;Full-Stack+Developer;Building+Practical+%26+Scalable+Solutions;React+%7C+Laravel+%7C+TypeScript;Always+Learning+New+Things"
+alt="Typing SVG"
+/>
 
 </div>
 
@@ -72,7 +71,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 
 <details open>
 <summary><b>📦&nbsp;&nbsp;TraceIt</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
-<br>
+<br/>
 
 > Inventory and expiry tracking web app for shops, cafés, and home kitchens — built with **Laravel + React (Inertia.js)**.
 
@@ -89,7 +88,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 
 <details>
 <summary><b>🥗&nbsp;&nbsp;ZenEats</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
-<br>
+<br/>
 
 > A diet recommendation system designed to help users make smarter, personalized food choices.
 
@@ -105,7 +104,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 
 <details>
 <summary><b>🌦️&nbsp;&nbsp;Weatherne</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
-<br>
+<br/>
 
 > A weather forecasting web app that fetches live data from a free weather API and showcases it in a clean, beautifully styled UI.
 
@@ -121,7 +120,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 
 <details>
 <summary><b>🎲&nbsp;&nbsp;HangLang</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
-<br>
+<br/>
 
 > A relative of hangman but the programming languages are on the line — built with **React + TypeScript**.
 
