@@ -63,7 +63,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </div>
 
 <details open>
-<summary><b>📦&nbsp;&nbsp;TraceIt</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>📦&nbsp;&nbsp;TraceIt</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
 <br/>
 
 > Inventory and expiry tracking web app for shops, cafés, and home kitchens — built with **Laravel + React (Inertia.js)**.
@@ -80,7 +80,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </details>
 
 <details>
-<summary><b>🥗&nbsp;&nbsp;ZenEats</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>🥗&nbsp;&nbsp;ZenEats</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
 <br/>
 
 > A diet recommendation system designed to help users make smarter, personalized food choices.
@@ -96,7 +96,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </details>
 
 <details>
-<summary><b>🌦️&nbsp;&nbsp;Weatherne</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>🌦️&nbsp;&nbsp;Weatherne</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
 <br/>
 
 > A weather forecasting web app that fetches live data from a free weather API and showcases it in a clean, beautifully styled UI.
@@ -112,7 +112,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </details>
 
 <details>
-<summary><b>🎲&nbsp;&nbsp;HangLang</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-00FFC6?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>🎲&nbsp;&nbsp;HangLang</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
 <br/>
 
 > A relative of hangman but the programming languages are on the line — built with **React + TypeScript**.
