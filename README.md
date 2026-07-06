@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gaurav%20Pulami&fontSize=52&fontColor=00FFC6&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20%7C%20BCA%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=16&descColor=8ED1FC" width="100%" alt="Header Banner"/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=whoami?;Full-Stack+Developer;Building+Practical+%26+Scalable+Solutions;React+%7C+Laravel+%7C+TypeScript;Always+Learning+New+Things"
-alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=function+whoAmI():string{;const+aboutMe+=+'<h1>+Full-Stack+Developer+<h1>;<h3>+Building+Innovative+Ideas+<h3>;<p>+React+%7C+Laravel+%7C+TypeScript+<p>;<p>+Always+Learning+New+Things+<p>'+return+aboutMe+}"
+alt="Typing SVG" width="fit-content"
 />
 
 </div>
 
 <br/>
 
-<table width="100%" border="0">
+<table width="100%">
 <tr>
 <td width="60%" valign="middle">
 
@@ -28,17 +28,17 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 - 🏆 Hackathon builder & ideator
 - 💡 I enjoy turning messy problems into clean, working systems
 - 📍 Based in Lalitpur, Nepal
-
 </td>
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="320" alt="hacker programmer coding animation"/>
-
+<td width="40%">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100%" alt="hacker programmer coding animation"/>
 </td>
 </tr>
 </table>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="hacker programmer coding animation"/>
 
 <br/>
+
 
 <div align="center">
 
