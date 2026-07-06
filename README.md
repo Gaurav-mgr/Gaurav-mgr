@@ -16,7 +16,7 @@ alt="Typing SVG"
 <td width="60%" valign="middle">
 
 ```bash
-> cat about_me.txt
+<h1> About Me </h1>
 ```
 
 I'm a **creative technologist** currently pursuing my **BCA**, passionate about building practical, maintainable, and scalable solutions. My work spans full-stack **web development** — from crafting clean interfaces to designing solid backend logic.
@@ -146,7 +146,9 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 <a href="mailto:gauravpulami0@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFC6&labelColor=0D1117" />
 </a>
-
+<a href="https://www.instagram.com/gaurav_mgr_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FFC6&labelColor=0D1117" />
+</a>
 </div>
 
 <br/>
