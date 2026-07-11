@@ -147,6 +147,6 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:BA2200&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:E32A00&height=100&section=footer" width="100%"/>
 
 <p align="center"><i>&lt; Thanks for stopping by — let's build something meaningful. /&gt;</i></p>
