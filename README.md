@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gaurav%20Pulami&fontSize=62&fontColor=00FFC6&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=17&descColor=8ED1FC" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:BA2200&height=250&section=header&text=Gaurav%20Pulami&fontSize=62&fontColor=E32A00&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" alt="Header Banner"/>
   
   <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=00FFC6&center=true&vCenter=true&width=700&lines=function+whoAmI():string{;const+aboutMe+=+'<h1>+Full-Stack+Web+Developer+<h1>;<h3>+Building+Innovative+Ideas+<h3>;<p>+React+%7C+Laravel+%7C+TypeScript+<p>;<p>+Always+Learning+New+Things+<p>'+return+aboutMe+}"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=BA2200&center=true&vCenter=true&width=700&lines=function+whoAmI():string{;const+aboutMe+=+'<h1>+Full-Stack+Web+Developer+<h1>;<h3>+Building+Innovative+Ideas+<h3>;<p>+React+%7C+Laravel+%7C+TypeScript+<p>;<p>+Always+Learning+New+Things+<p>'+return+aboutMe+}"
   alt="Typing SVG" width="fit-content"
   />
   
@@ -41,15 +41,15 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
   
   <br/><br/>
   
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00FFC6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FFC6&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=E32A00&labelColor=0D1117" />
 
 </div>
 
@@ -62,7 +62,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </div>
 
 <details open>
-  <summary><b>📦&nbsp;&nbsp;TraceIt</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
+  <summary><b>📦&nbsp;&nbsp;TraceIt</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
   <br/>
   
   > Inventory and expiry tracking web app for shops, cafés, and home kitchens — built with **Laravel + React (Inertia.js)**.
@@ -79,7 +79,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </details>
 
 <details>
-  <summary><b>🥗&nbsp;&nbsp;ZenEats</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
+  <summary><b>🥗&nbsp;&nbsp;ZenEats</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
   <br/>
   
   > A diet recommendation system designed to help users make smarter, personalized food choices.
@@ -96,7 +96,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </details>
 
 <details>
-  <summary><b>🌦️&nbsp;&nbsp;Weatherne</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
+  <summary><b>🌦️&nbsp;&nbsp;Weatherne</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
   <br/>
   
   > A weather forecasting web app that fetches live data from a free weather API and showcases it in a clean, beautifully styled UI.
@@ -111,7 +111,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 </details>
 
 <details>
-  <summary><b>🎲&nbsp;&nbsp;HangLang</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=00FFC6"/></summary>
+  <summary><b>🎲&nbsp;&nbsp;HangLang</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-ONLINE-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
   <br/>
   
   > A relative of hangman but the programming languages are on the line — built with **React + TypeScript**.
@@ -131,21 +131,22 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
 
   ## 📫 Connect With Me
   
-  <a href="https://www.linkedin.com/in/gauravpulami" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFC6&labelColor=0D1117" />
-  </a>
   
   <a href="mailto:gauravpulami0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFC6&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E32A00&labelColor=0D1117" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gauravpulami" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E32A00&labelColor=0D1117" />
   </a>
   
   <a href="https://www.instagram.com/gaurav_mgr_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FFC6&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E32A00&labelColor=0D1117" />
   </a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:BA2200&height=100&section=footer" width="100%"/>
 
 <p align="center"><i>&lt; Thanks for stopping by — let's build something meaningful. /&gt;</i></p>
