@@ -92,7 +92,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
   🌐 built while exploring health-tech solutions
   ```
   
-  `React` `TypeScript` `CSS3`
+  `HTML5` `PHP` `CSS3` `MySQL`
 </details>
 
 <details>
