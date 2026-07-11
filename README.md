@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:BA2200&height=250&section=header&text=Gaurav%20Pulami&fontSize=62&fontColor=8C1A00&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:E32A00&height=250&section=header&text=Gaurav%20Pulami&fontSize=62&fontColor=8C1A00&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" alt="Header Banner"/>
   
   <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=BA2200&center=true&vCenter=true&width=700&lines=function+whoAmI():string{;const+aboutMe+=+'<h1>+Full-Stack+Web+Developer+<h1>;<h3>+Building+Innovative+Ideas+<h3>;<p>+React+%7C+Laravel+%7C+TypeScript+<p>;<p>+Always+Learning+New+Things+<p>'+return+aboutMe+}"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=E32A00&center=true&vCenter=true&width=700&lines=function+whoAmI():string{;const+aboutMe+=+'<h1>+Full-Stack+Web+Developer+<h1>;<h3>+Building+Innovative+Ideas+<h3>;<p>+React+%7C+Laravel+%7C+TypeScript+<p>;<p>+Always+Learning+New+Things+<p>'+return+aboutMe+}"
   alt="Typing SVG" width="fit-content"
   />
   
