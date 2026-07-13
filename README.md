@@ -106,6 +106,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
   🎨 polished, responsive UI built entirely with custom CSS3
   ⚛️ component-driven architecture in React
   ```
+  Give it a try: <a href="https://weatherne.vercel.app" target="_blank">Weatherne</a>
   
   `React (JavaScript)` `CSS3`
 </details>
@@ -121,6 +122,7 @@ I'm a **creative technologist** currently pursuing my **BCA**, passionate about 
   💱 8 chances to guess the correct word
   🎨 clean, responsive, and clarified UI
   ```
+  Give it a try: <a href="https://lang-hang.vercel.app" target="_blank">HangLang</a>
   
   `React` `TypeScript` `CSS3`
 </details>
