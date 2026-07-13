@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:E32A00&height=250&section=header&text=Gaurav%20Pulami&fontSize=55&fontColor=8C1A00&animation=fadeIn&fontAlignY=32&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:E32A00&height=250&section=header&text=Gaurav%20Pulami&fontSize=65&fontColor=8C1A00&animation=fadeIn&fontAlignY=32&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" alt="Header Banner"/>
   
   <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=E32A00&center=true&vCenter=true&width=700&lines=class+Player+{;title:+'Full-Stack+Web+Developer';class:+'Builder+%2B+Ideator';current_quest:+'Leveling+Up';playstyle:+'React+%7C+Laravel+%7C+TypeScript';status:+'Always+Grinding+XP'+}"
