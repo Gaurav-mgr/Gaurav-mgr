@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:E32A00&height=250&section=header&text=Player%0AGaurav%20Pulami&fontSize=45&fontColor=8C1A00&animation=fadeIn&fontAlignY=32&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:E32A00&height=250&section=header&text=Player%0AGaurav%20Pulami&fontSize=55&fontColor=8C1A00&animation=fadeIn&fontAlignY=32&desc=BCA%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" alt="Header Banner"/>
   
   <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=E32A00&center=true&vCenter=true&width=700&lines=class+Player+{;title:+'Full-Stack+Web+Developer';class:+'Builder+%2B+Ideator';current_quest:+'Leveling+Up';playstyle:+'React+%7C+Laravel+%7C+TypeScript';status:+'Always+Grinding+XP'+}"
@@ -13,7 +13,7 @@
 
 <div>
 
-  # Character Profile
+  ## Character Profile
 
   **Gaurav Pulami** is a **creative technologist**-class player currently leveling up through his **BCA** campaign, specced into building practical, maintainable, and scalable solutions. His build spans **full-stack web development** — from front-end interface crafting to back-end logic engineering.
 
@@ -24,15 +24,15 @@
   </div><br/>
   <div>
     &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20ACTIVE%20QUEST-CC3635?style=rounded-square&labelColor=000"/><br/>
-    - Trendy Helmets Zone — a modern website quest featuring scroll and view animations to boost engagement and player retention<br/>
+    - Trendy Helmets Zone — a modern website quest featuring scroll and view animations to boost engagement and user retention<br/>
   </div><br/>
   
   <div>
     &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20QUEST%20CLEARED-0D1117?style=rounded-square&labelColor=E32A00"/><br/>
     - TraceIt — inventory & expiry tracking app deployed for shops, cafés, and home kitchens<br/>
-    - ZenEats — a diet recommendation system built for smarter player choices<br/>
+    - ZenEats — a diet recommendation system built for smarter user choices<br/>
     - Weatherne — a weather forecasting web app<br/>
-    - HangLang — a hangman-style boss fight with programming languages on the line
+    - HangLang — a hangman-style game with programming languages on the line
   </div>
 </div>
 
@@ -93,12 +93,12 @@
   <summary><b>🥗&nbsp;&nbsp;ZenEats</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-COMPLETED-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
   <br/>
   
-  > A diet recommendation system quest, crafted to help players make smarter, personalized food choices.
+  > A diet recommendation system quest, crafted to help users make smarter, personalized food choices.
   
   ```
-  🧠 recommends diet plans based on player input/preferences
+  🧠 recommends diet plans based on user input/preferences
   📃 accounts for health conditions i.e. allergies, and diet type i.e. vegan, vegetarian, non-vegetarian, or both
-  🩺 supports 3 player roles i.e. admin, user, and nutritionist
+  🩺 supports 3 user roles i.e. admin, user, and nutritionist
   📊 focused on practical, everyday nutrition guidance
   🌐 built while exploring the health-tech biome
   ```
@@ -110,13 +110,14 @@
   <summary><b>🌦️&nbsp;&nbsp;Weatherne</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-DEPLOYED-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
   <br/>
   
-  > A weather forecasting quest that pulls live data from a free weather API and displays it through a clean, beautifully styled UI.
+  > A weather forecasting website that pulls live data from a free weather API and displays it through a clean, beautifully styled UI.
   
   ```
   🌍 real-time weather data from a free public API
   🎨 polished, responsive UI built entirely with custom CSS3
   ⚛️ component-driven architecture in React
   ```
+  Give it a try: <a href="https://weatherne.vercel.app/" target="_blank">Weatherne</a>
   
   `React (JavaScript)` `CSS3`
 </details>
@@ -132,6 +133,7 @@
   💱 8 lives to guess the correct word
   🎨 clean, responsive, and clarified UI
   ```
+  Give it a try: <a href="https://lang-hang.vercel.app/" target="_blank">HangLang</a>
   
   `React` `TypeScript` `CSS3`
 </details>
@@ -160,4 +162,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:E32A00&height=100&section=footer" width="100%"/>
 
-<p align="center"><i>&lt; Thanks for stopping by this save file — let's team up and build something meaningful. /&gt;</i></p>
+<p align="center"><i>&lt; Thanks for stopping by — let's team up and build something meaningful. /&gt;</i></p>
