@@ -23,11 +23,12 @@
   </div><br/>
   <div>
     &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20ACTIVE%20QUEST-CC3635?style=rounded-square&labelColor=000"/><br/>
-    - Trendy Helmets Zone — a modern website quest featuring scroll and view animations to boost engagement and user retention<br/>
+    - pending
   </div><br/>
   
   <div>
     &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20QUEST%20CLEARED-0D1117?style=rounded-square&labelColor=E32A00"/><br/>
+    - Trendy Helmets Zone — a modern website quest featuring scroll and view animations to boost engagement and user retention<br/>
     - TraceIt — inventory & expiry tracking app deployed for shops, cafés, and home kitchens<br/>
     - ZenEats — a diet recommendation system built for smarter user choices<br/>
     - Weatherne — a weather forecasting web app<br/>
