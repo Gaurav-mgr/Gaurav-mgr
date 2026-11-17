@@ -23,8 +23,8 @@
   </div><br/>
   
   <div>
-    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20CURRENTLY%20WORKING%20ON-CC3635?style=rounded-square&labelColor=000"/><br/>
-    - In progress
+    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20JUST%20FINISHED%20ON-CC3635?style=rounded-square&labelColor=000"/><br/>
+    - Personal Portfolio
   </div><br/>
   
   <div>
@@ -74,6 +74,18 @@
 </div>
 
 <details open>
+  <summary><b>&nbsp;&nbsp;Portfolio</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-COMPLETED-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
+  <br/>
+  
+  > Personal Portfolio that describes me, my projects, and my taste and personality — forged with **React.js + Tailwind CSS + GSAP Animation**.
+  
+  Give it a try: <a href="https://gaurav-pulami.vercel.app/" target="_blank">Weatherne</a>
+  
+  `React.js` `TypeScript` `Tailwind CSS` `GSAP`
+
+</details>
+
+<details>
   <summary><b>📦&nbsp;&nbsp;TraceIt</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/●-COMPLETED-0D1117?style=rounded-square&labelColor=E32A00"/></summary>
   <br/>
   
