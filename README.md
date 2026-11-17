@@ -12,27 +12,28 @@
 
 <div>
 
-  ## Character Profile
+  ## About Me
 
-  **Gaurav Pulami** is a **creative technologist**-class player currently leveling up through his **BCA** campaign, specced into building practical, maintainable, and scalable solutions. His build spans **full-stack web development** — from front-end interface crafting to back-end logic engineering.
+  I am a **creative technologist** currently pursuing my **BCA** degree, specializing in building practical, maintainable, and scalable software solutions. My expertise spans **full-stack web development**, covering everything from front-end interface design to robust back-end logic engineering.
 
   <div>
-    - Hackathon raid clearer & idea generator<br/>
-    - Turns messy problems into clean, working systems — his signature move<br/>
-    - Base: Lalitpur, Nepal
-  </div><br/>
-  <div>
-    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20ACTIVE%20QUEST-CC3635?style=rounded-square&labelColor=000"/><br/>
-    - pending
+    - Hackathon participant & creative problem solver<br/>
+    - Passionate about transforming complex, messy challenges into clean, working systems<br/>
+    - Based in Lalitpur, Nepal
   </div><br/>
   
   <div>
-    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20QUEST%20CLEARED-0D1117?style=rounded-square&labelColor=E32A00"/><br/>
-    - Trendy Helmets Zone — a modern website quest featuring scroll and view animations to boost engagement and user retention<br/>
-    - TraceIt — inventory & expiry tracking app deployed for shops, cafés, and home kitchens<br/>
-    - ZenEats — a diet recommendation system built for smarter user choices<br/>
-    - Weatherne — a weather forecasting web app<br/>
-    - HangLang — a hangman-style game with programming languages on the line
+    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20CURRENTLY%20WORKING%20ON-CC3635?style=rounded-square&labelColor=000"/><br/>
+    - In progress
+  </div><br/>
+  
+  <div>
+    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20PROJECTS%20COMPLETED-0D1117?style=rounded-square&labelColor=E32A00"/><br/>
+    - **Trendy Helmets Zone** — A modern e-commerce website featuring smooth scroll and view animations to boost engagement and user retention<br/>
+    - **TraceIt** — An inventory and expiry tracking application deployed for local shops, cafés, and home kitchens<br/>
+    - **ZenEats** — A diet recommendation system designed to help users make smarter nutritional choices<br/>
+    - **Weatherne** — A reliable weather forecasting web application<br/>
+    - **HangLang** — A hangman-style word game themed around programming languages
   </div>
 </div>
 
