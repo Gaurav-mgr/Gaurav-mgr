@@ -29,11 +29,11 @@
   
   <div>
     &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20PROJECTS%20COMPLETED-0D1117?style=rounded-square&labelColor=E32A00"/><br/>
-    - **Trendy Helmets Zone** — A modern e-commerce website featuring smooth scroll and view animations to boost engagement and user retention<br/>
-    - **TraceIt** — An inventory and expiry tracking application deployed for local shops, cafés, and home kitchens<br/>
-    - **ZenEats** — A diet recommendation system designed to help users make smarter nutritional choices<br/>
-    - **Weatherne** — A reliable weather forecasting web application<br/>
-    - **HangLang** — A hangman-style word game themed around programming languages
+    - Trendy Helmets Zone — A modern e-commerce website featuring smooth scroll and view animations to boost engagement and user retention<br/>
+    - TraceIt — An inventory and expiry tracking application deployed for local shops, cafés, and home kitchens<br/>
+    - ZenEats — A diet recommendation system designed to help users make smarter nutritional choices<br/>
+    - Weatherne — A reliable weather forecasting web application<br/>
+    - HangLang — A hangman-style word game themed around programming languages
   </div>
 </div>
 
