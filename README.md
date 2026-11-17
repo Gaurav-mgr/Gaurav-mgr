@@ -79,7 +79,7 @@
   
   > Personal Portfolio that describes me, my projects, and my taste and personality — forged with **React.js + Tailwind CSS + GSAP Animation**.
   
-  Give it a try: <a href="https://gaurav-pulami.vercel.app/" target="_blank">Weatherne</a>
+  Give it a try: <a href="https://gaurav-pulami.vercel.app/" target="_blank">Gaurav Pulami</a>
   
   `React.js` `TypeScript` `Tailwind CSS` `GSAP`
 
