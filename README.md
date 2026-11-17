@@ -23,8 +23,8 @@
   </div><br/>
   
   <div>
-    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20JUST%20FINISHED%20ON-CC3635?style=rounded-square&labelColor=000"/><br/>
-    - Personal Portfolio
+    &nbsp;&nbsp;<img src="https://img.shields.io/badge/●%20JUST%20FINISHED-CC3635?style=rounded-square&labelColor=000"/><br/>
+    - Personal Portfolio - A modern & unique portfolio with multiple GSAP animations and appealing visual designs.
   </div><br/>
   
   <div>
