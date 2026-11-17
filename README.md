@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  ## 🚀 Completed Quests
+  ## 🚀 Completed Projects
 
 </div>
 
@@ -155,7 +155,7 @@
 
 <div align="center">
 
-  ## 📫 Send a Party Invite
+  ## 📫 Let's Connect
   
   
   <a href="mailto:gauravpulami0@gmail.com">
