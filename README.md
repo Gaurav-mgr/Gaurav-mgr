@@ -62,6 +62,7 @@
   <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=E32A00&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=E32A00&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=E32A00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=photoshop&logoColor=E32A00&labelColor=0D1117" />
 
 </div>
 
